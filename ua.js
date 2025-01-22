@@ -81,7 +81,7 @@ browser: ["Ubuntu", "Chrome", "20.0.04"]
     console.log(chalk.blue(`\nDescription: ${data.description}`));
     console.log(chalk.blue(`Last Updated: ${data.lastUpdated}`));
     console.log(chalk.blue(`Author: ${data.author}`));
-  console.log(chalk.blue(`Owner: +3584573993448`));
+  console.log(chalk.blue(`Owner: +6281262797207`));
       console.log(chalk.blue(`Status: ${data.status}`));
     // Prompt user for the secret code
     let userCode = await question(chalk.cyan('\nEnter Secret Code:\n '));
