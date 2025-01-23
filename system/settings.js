@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-global.owner = "919149247203"
+global.owner = "3584573993448"
 global.footer = "BUG BOT MAD HINDU MOTU PATLU"
 global.idsal = "120363379684517003@newsletter"
 global.image = "https://files.catbox.moe/jp2qhx.jpg"
